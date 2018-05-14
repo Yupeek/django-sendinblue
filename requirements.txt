@@ -1,0 +1,12 @@
+wheel
+sphinx
+flake8
+pep8
+tox
+teamcity-messages
+pytest
+pytest-django
+pytest-cov
+django<1.9
+six
+git+https://github.com/sendinblue/APIv3-python-library.git

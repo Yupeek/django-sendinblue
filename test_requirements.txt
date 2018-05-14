@@ -1,0 +1,5 @@
+coverage
+six
+pytest
+pytest-cov
+teamcity-messages
